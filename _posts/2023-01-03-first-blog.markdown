@@ -1,10 +1,14 @@
 ---
 layout: post
 title:  "첫 트레이딩 일기"
-date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+date:   2023-01-03 20:59:36 GMT+9
+categories: System-Trading
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+트레이딩을 하며 처음 작성하는 글
+
+
+아래 마크다운 예시처럼 앞으로 블로그 글을 작성할 때 사용하면 되겠다! 
+이제 시스템 트레이딩 개발 일지를 앞으로 만들어나갈 것이다.
 
 ```javascript
 const Razorpay = require('razorpay');
