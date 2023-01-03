@@ -4,6 +4,7 @@ email: kkkths@naver.com
 description: > # this means to ignore newlines until "show_exerpts:"
   안녕하세요. 취미로 시스템 트레이딩과 주식을 공부하며 개발하는 개발자입니다.
 show_excerpts: true # set to true to show excerpts on the homepage
+future: true
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

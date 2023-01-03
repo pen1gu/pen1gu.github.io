@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "첫 트레이딩 일기"
-date:   2023-01-03 20:59:36 GMT+9
+date:   2023-01-03 20:59:36 +0900
 categories: System-Trading
 ---
 트레이딩을 하며 처음 작성하는 글
